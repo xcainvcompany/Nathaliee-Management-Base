@@ -1,0 +1,16 @@
+{
+  "name": "plan-v",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.8",
+    "uuid": "^9.0.1"
+  }
+}
